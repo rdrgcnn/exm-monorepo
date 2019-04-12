@@ -1,0 +1,22 @@
+{
+  "name": "exm-elements-demo",
+  "version": "1.0.0",
+  "description": "ExMachina web components demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.2",
+    "@polymer/iron-icons": "^3.0.1",
+    "@polymer/lit-element": "^0.7.1",
+    "@polymer/paper-icon-button": "^3.0.2",
+    "gulp": "^4.0.0",
+    "lit-element": "github:polymer/lit-element",
+    "polymer": "^0.5.0",
+    "typescript": "^3.4.1"
+  }
+}
